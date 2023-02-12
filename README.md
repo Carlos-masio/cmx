@@ -1,4 +1,4 @@
-# Onex
+# cmx
 
 ***"onex a hacking tools library."***
 Onex is a kali linux hacking tools installer for termux and other linux distribution. It's package manager for hacker's.
@@ -29,7 +29,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/jackind424/onex.git`
+* `git clone https://github.com/Carlos-masio/cmx.git`
 
 * `chmod +x onex/install`
 
